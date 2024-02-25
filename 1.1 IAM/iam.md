@@ -5,7 +5,7 @@
 
 ## 1.1.1 Overview of IAM
 
-* Attach IAMOverview-1.png
+* ![AWS IAM Overview](https://github.com/porkchopfries/aws-saa-c03/blob/main/1.1%20IAM/IAM-Overview-1.png)
 * IAM Principals must be **authenticated** to send requests (with a few exceptions)
 * A principal is a person or application that can make a request for an **action** or **operation** on an AWS resource 
 * AWS determines whether to **authorise** the request (allow/deny)
